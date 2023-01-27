@@ -1,0 +1,25 @@
+{
+  "name": "oh-01-27-22-express-server",
+  "version": "1.0.0",
+  "description": "server for student demonstration",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brownj47/OH-01-27-22-express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brownj47/OH-01-27-22-express-server/issues"
+  },
+  "homepage": "https://github.com/brownj47/OH-01-27-22-express-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
